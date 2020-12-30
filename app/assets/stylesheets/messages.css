@@ -76,7 +76,7 @@
 
 .messages {
   background-color: #FAFAFA;
-  height: calc(100vh - 100px - 90px);
+  height: calc(100vh - 100px - 138px);
   padding: 46px 40px 0;
   overflow: scroll;
 }
@@ -112,10 +112,10 @@
 
 .form {
   background-color: #DDDDDD;
-  height: 90px;
   padding: 20px 40px;
   display: flex;
 }
+
 .form-input {
   background-color: white;
   display: flex;
